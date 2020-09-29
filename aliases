@@ -158,6 +158,10 @@ alias vpc-route-tables='~/.bash-my-aws/bin/bma vpc-route-tables'
 alias vpc-subnets='~/.bash-my-aws/bin/bma vpc-subnets'
 alias vpcs='~/.bash-my-aws/bin/bma vpcs'
 
+alias queue-attributes='~/.bash-my-aws/bin/bma queue-attributes'
+alias queue-purge='~/.bash-my-aws/bin/bma queue-purge'
+alias queues='~/.bash-my-aws/bin/bma queues'
+
 # We'll find a less suprising place for this in future
 # region() needs to be a function in order to let it
 # set AWS_DEFAULT_REGION in the current shell
